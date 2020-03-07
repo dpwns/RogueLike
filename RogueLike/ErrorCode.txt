@@ -1,0 +1,6 @@
+1001 txt File Read Error. File is already opened
+1002 txt File Read Error. Failed to open file.
+1101 txt File Write Error. File is already opened
+1102 txt File Write Error. Failed to open file.
+1201 txt File Append Error. File is already opened
+1202 txt File Append Error. Failed to open file.

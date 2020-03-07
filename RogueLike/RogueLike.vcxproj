@@ -155,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="DevelopementRecord.txt" />
+    <Text Include="ErrorCode.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
